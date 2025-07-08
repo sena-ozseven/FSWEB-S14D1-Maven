@@ -27,4 +27,6 @@ public class Rectangle {
                 ", length=" + length +
                 '}';
     }
+
+    //Bilgisayar dili ingilzce yapıldı.
 }
